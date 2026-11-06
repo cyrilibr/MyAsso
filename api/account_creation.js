@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 function check_email(first_name, last_name, email) {
     // Checks if email is in the correct format, should also access the list of real devinci accounts to check if the person exists
     // Should also check if the email is already in the platform database
@@ -33,3 +35,4 @@ while (!verif) {
 }
 console.log("Compte créé avec succès !");
 // Should add data to database
+>>>>>>> origin/main
